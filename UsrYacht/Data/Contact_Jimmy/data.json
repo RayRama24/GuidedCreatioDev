@@ -1,0 +1,21 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f3586c72-f85c-406c-b28e-1754dd54a189"
+        },
+        {
+          "SchemaColumnUId": "a49571cc-a9a9-4c3e-a346-46c466e9a0d3",
+          "Value": "c9b607d3-0456-4c10-ac04-bf209f3f2f66",
+          "DisplayValue": "Drug dealer"
+        },
+        {
+          "SchemaColumnUId": "a5cca792-47dd-428a-83fb-5c92bdd97ff8",
+          "Value": "jimmy"
+        }
+      ]
+    }
+  ]
+}
