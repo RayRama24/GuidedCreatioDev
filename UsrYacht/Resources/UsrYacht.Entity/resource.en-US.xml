@@ -3,7 +3,15 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yacht" />
+			<Item Name="Columns.UsrColumn11.Caption" Value="Crew count" />
+			<Item Name="Columns.UsrColumn14.Caption" Value="Manager" />
+			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrDriveType.Caption" Value="Drive type" />
+			<Item Name="Columns.UsrLength.Caption" Value="Length, m" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrPassengerCount.Caption" Value="Passenger count" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Price per day, USD" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
 		</Items>
 	</Group>
 </Resources>
