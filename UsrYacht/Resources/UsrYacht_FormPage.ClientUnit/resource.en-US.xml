@@ -5,7 +5,23 @@
 			<Item Name="Caption" Value="Yacht form page" />
 			<Item Name="LocalizableStrings.addRecord_0lebnim_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_3mect6r_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_68o5c90_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_7r9yeje_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_cuzboun_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.CategoriesMultiSelect_label.Value" Value="Categories" />
+			<Item Name="LocalizableStrings.crewCountCannotBeLess.Value" Value="Crew count cannot be less than 1," />
+			<Item Name="LocalizableStrings.ExpansionPanel_16z8ybk_title.Value" Value="Yacht rental" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_448g3l0_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_27g5q3f_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_pfqlmve_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_3z6zlmv_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_c96n1a9_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_d1o1dzk_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.lengthCannotBeLess.Value" Value="Length cannot be less than 3 m," />
+			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Manager email" />
+			<Item Name="LocalizableStrings.passengerCountCannotBeLess.Value" Value="Passenger count cannot be less than 1," />
+			<Item Name="LocalizableStrings.priceCannotBeLess.Value" Value="Price cannot be less than 100 USD" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
 </Resources>

@@ -70,7 +70,21 @@ define("UsrYacht_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 							"dataValueType": 10,
 							"width": 132
 						}
-					]
+					],
+					"features": {
+						"rows": {
+							"selection": {
+								"enable": true,
+								"multiple": true
+							}
+						},
+						"editable": {
+							"enable": false,
+							"itemsCreation": false,
+							"floatingEditPanel": false
+						}
+					},
+					"visible": true
 				}
 			},
 			{
